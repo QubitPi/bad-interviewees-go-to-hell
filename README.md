@@ -34,11 +34,12 @@ FYI - the file structure looks like the following:
         └── Button.js
 ```
 
-```javascript```
+```javascript
 // Button.js
 
 // Your answer starts here
 };
+```
 ---
 
 At 10, I called the number, nobody picked up. I called again, nobody picked up. I gave it a last try before giving it
